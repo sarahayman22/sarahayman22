@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! I'm a Computer Science graduate from **Hashemite University**, and currently enhancing my skills in **Software Engineering** at [42Amman](https://42amman.jo). I'm passionate about coding, continuous learning, and making an impact in the tech world!
 
+🌓 *This profile supports automatic light/dark mode!*
+
 ---
 
 ### 🌱 About Me
@@ -17,9 +19,7 @@ Welcome to my GitHub profile! I'm a Computer Science graduate from **Hashemite U
 ## 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,python,html,css,linux,bash,git" />
-  <img src="https://skillicons.dev/icons?i=github,vscode" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=java,c,python,html,css,linux,bash,git,github,vscode,mysql" />
 </p>
 
 ---
@@ -29,7 +29,6 @@ Welcome to my GitHub profile! I'm a Computer Science graduate from **Hashemite U
 <div align="center">
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=sarahayman22&theme=radical&show_icons=true&count_private=true&locale=en" alt="Sara's GitHub Stats" />
   <img width="390" src="https://github-readme-streak-stats.herokuapp.com?user=sarahayman22&theme=radical&count_private=true&border_radius=10" alt="Sara's GitHub Streak" />
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarahayman22&theme=radical&layout=donut&hide=css&langs_count=8&border_radius=10" alt="Sara's Most Used Languages" />
 </div>
 
 ---
