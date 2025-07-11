@@ -33,18 +33,6 @@ Welcome to my GitHub profile! I'm a Computer Science graduate from **Hashemite U
 
 ---
 
-## 🐍 My Contributions
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sarahayman22/sarahayman22/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sarahayman22/sarahayman22/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/sarahayman22/sarahayman22/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
----
-
 ### 📫 Let's Connect
 
 <p align="center">
