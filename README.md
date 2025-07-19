@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Sara Abo Shennar!
 
-Welcome to my GitHub profile! I'm a Computer Science graduate from **Hashemite University**, and currently enhancing my skills in **Software Engineering** at [42Amman](https://42amman.jo). I'm passionate about coding, continuous learning, and making an impact in the tech world!
+Welcome to my GitHub profile! I'm a Computer Science graduate from **Hashemite University**, and currently enhancing my skills in **Software Engineering** at [42Amman](https://42amman.com). I'm passionate about coding, continuous learning, and making an impact in the tech world!
 
 
 
