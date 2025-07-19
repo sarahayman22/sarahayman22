@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a Computer Science graduate from **Hashemite U
 
 ### 🌱 About Me
 
-- 🎓 B.Sc. in Computer Science | Hashemite University (GPA: 3.13)
+- 🎓 B.Sc. in Computer Science | Hashemite University
 - 🧑‍💻 Software Engineering Student at **42Amman**
 - 👩‍🏫 Coding Instructor at JeelCode (AI & kids coding education)
 - 🤖 Passionate about data, AI, Linux systems, and shell scripting
