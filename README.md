@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a Computer Science graduate from **Hashemite U
 
 <div align="center">
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=sarahayman22&theme=radical&show_icons=true&count_private=true&locale=en" alt="Sara's GitHub Stats" />
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com?user=sarahayman22&theme=radical&count_private=true&border_radius=10" alt="Sara's GitHub Streak" />
+  <!-- <img width="390" src="https://github-readme-streak-stats.herokuapp.com?user=sarahayman22&theme=radical&count_private=true&border_radius=10" alt="Sara's GitHub Streak" /> -->
 </div>
 
 ---
