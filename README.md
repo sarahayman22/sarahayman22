@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a Computer Science graduate from **Hashemite U
 ## 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,python,html,css,linux,bash,git,github,vscode,mysql,docker" />
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,html,css,linux,bash,git,github,vscode,mysql,docker" />
 </p>
 
 ---
